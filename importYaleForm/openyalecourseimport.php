@@ -1,10 +1,17 @@
 <?php
-	$tagsArr = array('education', 'finance', 'economics', 'yale');
-	$category = 'education>finance>financial theory';
+	header("Content-Type: application/force-download");
+	header("Content-Type: application/octet-stream");
+	header("Content-Type: application/download");
+	header("Content-Disposition: attachment; filename=\"YaleOCBulkUpload.xml\"");
+
+	$tagsStr = $_REQUEST["courseTags"];//array('education', 'finance', 'economics', 'yale');
+	$tagsArr = array();
+	if ($tagsStr != '') $tagsArr = explode(',', $tagsStr);
+	$category = trim($_REQUEST["categoryKaltura"]);//'education>finance>financial theory';
 	
 	$baseUrl = 'http://oyc.yale.edu';
 	$baseUrlVideo = 'http://openmedia.yale.edu/projects';
-	$firstCoursePage = 'http://oyc.yale.edu/political-science/plsc-270/lecture-6';
+	$firstCoursePage = trim($_REQUEST["firstCoursePage"]);//'http://oyc.yale.edu/political-science/plsc-270/lecture-6';
 	
 	require('phpQuery.php');
 	echo '<?xml version="1.0"?>

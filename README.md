@@ -10,6 +10,7 @@ This script includes
 * 5minimport.php - Conversion script that migrates 5min.com feed to a Kaltura Bulk Upload XML format.
 * latesttedtalksimport.php - Conversion script that migrates Ted.com feedburner feed to a Kaltura Bulk Upload XML format.
 * openyalecourseimport.php - Conversion script that migrates courses from http://oyc.yale.edu/ to a Kaltura Bulk Upload XML format.
+* importYaleForm (folder) - Provides a web form for openyalecourseimport.php (this is self contained, just place in your web server) 
 
 Usage Guidelines
 ================
@@ -23,8 +24,15 @@ To edit the number of pages to import from 5min's feed:
 * Edit 5minimport, set the $pagesToFetch to the number of pages (API results paging) you want to import from 5min.
 
 To edit the course to import from oyc.yale.edu:
-* Go to http://oyc.yale.edu/courses , select a course to import, go into the course page, click "VIEW CLASS SESSIONS »", go into the first lecture page.
+* Go to http://oyc.yale.edu/courses , select a course to import, go into the course page, click "VIEW CLASS SESSIONS ï¿½", go into the first lecture page.
 * Edit openyalecourseimport and paste the URL of the first lecture in the course you wish to import to the variable: "$firstCoursePage". Save.
+
+importYaleForm (folder)
+=======================
+This folder provides a self-contained web form interface for the openyalecourseimport.php script.
+After placing in a web server, open the index.php file in a web browser, and the form will allow you to edit the script configurations.
+Hitting submit will download an XML file that can be submitted to Kaltura via the KMC.
+Live Sample at http://www.kaltura.org/demos/bulk-import-yale-opencourse/
 
 Notice
 ======
