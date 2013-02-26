@@ -1,0 +1,2493 @@
+<?xml version="1.0"?>
+<mrss xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ingestion.xsd">
+	<channel><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Bruce Feiler: Agile programming -- for your family]]></name>
+	<description><![CDATA[Bruce Feiler has a radical idea: To deal with the stress of modern family life, go agile. Inspired by agile software programming, Feiler introduces family practices which encourage flexibility, bottom-up idea flow, constant feedback and accountability. One surprising feature: Kids pick their own punishments.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/ihj8ndd2rRs/BruceFeiler_2013S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/da4a839dfd5cbef53444510020ab4ec49681054a_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Michael Dickinson: How a fly flies]]></name>
+	<description><![CDATA[An insect's ability to fly is perhaps one of the greatest feats of evolution. Michael Dickinson looks at how a common housefly takes flight with such delicate wings, thanks to a clever flapping motion and flight muscles that are both powerful and nimble. But the secret ingredient: the incredible fly brain. (Filmed at TEDxCaltech.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/LYN2DaN_Edc/MichaelDickinson_2013X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/358f8320e4a3b2a9f21dc6ae0585b8ddc071c1a5_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Andreas Schleicher: Use data to build better schools]]></name>
+	<description><![CDATA[How can we measure what makes a school system work? Andreas Schleicher walks us through the PISA test, a global measurement that ranks countries against one another -- then uses that same data to help schools improve. Watch to find out where your country stacks up, and learn the single factor that makes some systems outperform others.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/0ti9-fW7Tmc/AndreasSchleicher_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/6632a3a447061e23f956b1f28cc62cdef41b4404_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Afra Raymond: Three myths about corruption]]></name>
+	<description><![CDATA[Trinidad and Tobago amassed great wealth in the 1970s thanks to oil. But in 1982, a shocking fact was revealed -- that 2 out of every 3 dollars earmarked for development had been wasted or stolen. This has haunted Afra Raymond for 30 years. Shining a flashlight on a continued history of government corruption, Raymond gives us a reframing of financial crime. (Filmed at TEDxPortofSpain.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/WaraQ_Y2vYM/AfraRaymond_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/592908a61852075d8423362989e9fe268fefc5c9_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Keith Chen: Could your language affect your ability to save money?]]></name>
+	<description><![CDATA[What can economists learn from linguists? Behavioral economist Keith Chen introduces a fascinating pattern from his research: that languages without a concept for the future -- "It rain tomorrow," instead of "It will rain tomorrow" -- correlate strongly with high savings rates. Read more about Chen’s explorations &raquo]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/NwQU5xhq8eA/KeithChen_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/9a7dd96b51e3a21476d5b5c8254fda484a588c23_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Miguel Nicolelis: A monkey that controls a robot with its thoughts. No, really.]]></name>
+	<description><![CDATA[Can we use our brains to directly control machines -- without requiring a body as the middleman? Miguel Nicolelis talks through an astonishing experiment, in which a clever monkey in the US learns to control a monkey avatar, and then a robot arm in Japan, purely with its thoughts. The research has big implications for quadraplegic people -- and maybe for all of us. (Filmed at TEDMED 2012.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/JcKvteHlgsM/MiguelNicolelis_2012P.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/9759b9b5b08c13a29a320b10ea37110f439795c4_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Young-ha Kim: Be an artist, right now!]]></name>
+	<description><![CDATA[Why do we ever stop playing and creating? With charm and humor, celebrated Korean author Young-ha Kim invokes the world's greatest artists to urge you to unleash your inner child -- the artist who wanted to play forever. (Filmed at TEDxSeoul.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/79jkjaMU5ns/YounghaKim_2010X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/98c37912ea62c89c21f43ef98ee122ebacd8634d_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Esther Perel: The secret to desire in a long-term relationship]]></name>
+	<description><![CDATA[In long-term relationships, we often expect our beloved to be both best friend and erotic partner. But as Esther Perel argues, good and committed sex draws on two conflicting needs: our need for security and our need for surprise. So how do you sustain desire? With wit and eloquence, Perel lets us in on the mystery of erotic intelligence.
+
+]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/SVHqACLUJtY/EstherPerel_2013S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/7d8ab7dbfa71c6bf8991a9dff6af926e096e1a96_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[James B. Glattfelder: Who controls the world?]]></name>
+	<description><![CDATA[James Glattfelder studies complexity: how an interconnected system -- say, a swarm of birds -- is more than the sum of its parts. And complexity theory, it turns out, can reveal a lot about how the economy works. Glattfelder shares a groundbreaking study of how control flows through the global economy, and how concentration of power in the hands of a shockingly small number leaves us all vulnerable. (Filmed at TEDxZurich.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/gpqHwPRu-fw/JamesBGlattfelder_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/2a46d8d424ce31486b5ebb8278ade834cd6aefe7_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Erik Schlangen: A "self-healing" asphalt]]></name>
+	<description><![CDATA[Paved roads are nice to look at, but they’re easily damaged and costly to repair. Erik Schlangen demos a new type of porous asphalt made of simple materials with an astonishing feature: When cracked, it can be “healed” by induction heating. (Filmed at TEDxDelft.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/LcV6XXel6YU/ErikSchlangen_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/d98aa55b2b8bc23be4cc8700dc390bd56fbe6749_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Shabana Basij-Rasikh: Dare to educate Afghan girls]]></name>
+	<description><![CDATA[Imagine a country where girls must sneak out to go to school, with deadly consequences if they get caught learning. This was Afghanistan under the Taliban, and traces of that danger remain today. 22-year-old Shabana Basij-Rasikh runs a school for girls in Afghanistan. She celebrates the power of a family's decision to believe in their daughters -- and tells the story of one brave father who stood up to local threats. (Filmed at TEDxWomen)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/W-g0fuECYTw/ShabanaBasijRasikh_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/7bce065f0deca72d9ff79e582b3f4b2521658836_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Edi Rama: Take back your city with paint]]></name>
+	<description><![CDATA[Make a city beautiful, curb corruption. Edi Rama took this deceptively simple path as mayor of Tirana, Albania, where he instilled pride in his citizens by transforming public spaces with colorful designs. With projects that put the people first, Rama decreased crime -- and showed his citizens they could have faith in their leaders. (Filmed at TEDxThessaloniki.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/WeWv0ygeH6c/EdiRama_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/e964b82f433de4bed59a57542e7db143a5e26c12_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Lee Cronin: Print your own medicine]]></name>
+	<description><![CDATA[Chemist Lee Cronin is working on a 3D printer that, instead of objects, is able to print molecules. An exciting potential long-term application: printing your own medicine using chemical inks.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/JwLwBaAbqok/LeeCronin_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/d6b7bdd5b7a67e79bf003753a9b550c4fae59531_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Cesar Kuriyama: One second every day]]></name>
+	<description><![CDATA[There are so many tiny, beautiful, funny, tragic moments in your life -- how are you going to remember them all? Director Cesar Kuriyama shoots one second of video every day as part of an ongoing project to collect all the special bits of his life.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/B9X2SfiAnbg/CesarKuriyama_2012.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/5ed106dbb19d2130090a23e6a3392151df3d1fae_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Tyler DeWitt: Hey science teachers -- make it fun]]></name>
+	<description><![CDATA[High school science teacher Tyler DeWitt was ecstatic about a lesson plan on bacteria (how cool!) -- and devastated when his students hated it. The problem was the textbook: it was impossible to understand. He delivers a rousing call for science teachers to ditch the jargon and extreme precision, and instead make science sing through stories and demonstrations. (Filmed at TEDxBeaconStreet.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/InPL6S90o2c/TylerDeWitt_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/811cd11327696f4b8a124e4b75fa9aa780a20248_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Zahra' Langhi: Why Libya's revolution didn't work -- and what might]]></name>
+	<description><![CDATA[In Libya, Zahra' Langhi was part of the "days of rage" movement that helped topple the dictator Qaddafi. But -- then what? In their first elections, Libyans tried an innovative slate of candidates, the "zipper ballot," that ensured equal representation from men and women of both sides. Yet the same gridlocked politics of dominance and exclusion won out. What Libya needs now, Langhi suggests, is collaboration, not competition; compassion, not rage. ]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/fEF3CdgVuTA/ZahraLanghi_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/0efb7be6d24022335aa24aa1dd5f83896805f6a9_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Fahad Al-Attiya: A country with no water]]></name>
+	<description><![CDATA[Imagine a country with abundant power -- oil and gas, sunshine, wind (and money) -- but missing one key essential for life: water. Infrastructure engineer Fahad Al-Attiya talks about the unexpected ways that the small Middle Eastern nation of Qatar creates its water supply.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/swUFXbyx9Ww/FahadAlAttiya_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/711ba0cd8d0f61c7be31175a60ed6efd173a78b5_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[iO Tillett Wright: Fifty shades of gay]]></name>
+	<description><![CDATA[Artist iO Tillett Wright has photographed 2,000 people who consider themselves somewhere on the LBGTQ spectrum and asked many of them: Can you assign a percentage to how gay or straight you are? Most people, it turns out, consider themselves to exist in the gray areas of sexuality, not 100% gay or straight. Which presents a real problem when it comes to discrimination: Where do you draw the line? (Filmed at TEDxWomen.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/QSGqECANPlg/iOTillettWright_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/bceb5a40d91e9274693a658894b470852f7595f5_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Mitch Resnick: Let's teach kids to code]]></name>
+	<description><![CDATA[Coding isn’t just for computer whizzes, says Mitch Resnick of MIT Media Lab -- it’s for everyone. In a fun, demo-filled talk Resnick outlines the benefits of teaching kids to code, so they can do more than just “read” new technologies -- but also create them. (Filmed at TEDxBeaconStreet.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/Q4Mja2Dz1FY/MitchResnick_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/a61b71207e7fe2cdc6cff027742cb98e1322cf12_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Wingham Rowan: A new kind of job market]]></name>
+	<description><![CDATA[Plenty of people need jobs with very flexible hours -- but it's difficult for those people to connect with the employers who need them. Wingham Rowan is working on that. He explains how the same technology that powers modern financial markets can help employers book workers for slivers of time.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/KTZbX2w5l5s/WinghamRowan_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/d4520528293e225eb073235edc336474ad2bb72c_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Leslie Morgan Steiner: Why domestic violence victims don't leave]]></name>
+	<description><![CDATA[Leslie Morgan Steiner was in “crazy love” -- that is, madly in love with a man who routinely abused her and threatened her life. Steiner tells the dark story of her relationship, correcting misconceptions many people hold about victims of domestic violence, and explaining how we can all help break the silence. (Filmed at TEDxRainier.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/cB2ZegDHR28/LeslieMorganSteiner_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/bbfa62818807b138c85e93b779840877d0f4753c_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Steven Schwaitzberg: A universal translator for surgeons]]></name>
+	<description><![CDATA[Laparoscopic surgery uses minimally invasive incisions -- which means less pain and shorter recovery times for patients. But Steven Schwaitzberg has run into two problems teaching these techniques to surgeons around the world -- language and distance. He shares how a new technology, which combines video conferencing and a real-time universal translator, could help. (Filmed at TEDxBeaconStreet.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/oP0vLmjzp6o/StevenSchwaitzberg_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/745e3f21c2c9a253422cbf4e302fba5ab420fdc5_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Colin Powell: Kids need structure]]></name>
+	<description><![CDATA[How can you help kids get a good start? In this heartfelt and personal talk, Colin Powell, the former U.S. Secretary of State, asks parents, friends and relatives to support children from before they even get to primary school, through community and a strong sense of responsibility. (Filmed at TEDxMidAtlantic.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/bUisz0WZqlk/ColinPowell_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/6805b590130b61b844c4de1c08cb7bf4a8060053_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Janine di Giovanni: What I saw in the war]]></name>
+	<description><![CDATA[Reporter Janine di Giovanni has been to the worst places on Earth to bring back stories from Bosnia, Sierra Leone and most recently Syria. She tells stories of human moments within large conflicts -- and explores that shocking transition when a familiar city street becomes a bombed-out battleground.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/K-op7b_8tz4/JaninediGiovanni_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/9f94bab325b6cc0fc3cc2dd3a8550c55a278d3bd_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Colin Stokes: How movies teach manhood]]></name>
+	<description><![CDATA[When Colin Stokes’ 3-year-old son caught a glimpse of Star Wars, he was instantly obsessed. But what messages did he absorb from the sci-fi classic? Stokes asks for more movies that send positive messages to boys: that cooperation is heroic, and respecting women is as manly as defeating the villain. (Filmed at TEDxBeaconStreet.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/6W-yQUlCbSo/ColinStokes_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/cc6cae44f6186a4daa3915adde17ff15e5025762_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Richard Weller: Could the sun be good for your heart?]]></name>
+	<description><![CDATA[Our bodies get Vitamin D from the sun, but as dermatologist Richard Weller suggests, sunlight may confer another surprising benefit too. New research by his team shows that nitric oxide, a chemical transmitter stored in huge reserves in the skin, can be released by UV light, to great benefit for blood pressure and the cardiovascular system. What does it mean? Well, it might begin to explain why Scots get sick more than Australians ...]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/wiFp8QJurcw/RichardWeller_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/6856515135edf8c73e95bc917a66a97dcecf3592_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Cameron Russell: Looks aren't everything. Believe me, I'm a model.]]></name>
+	<description><![CDATA[Cameron Russell admits she won “a genetic lottery”: she's tall, pretty and an underwear model. But don't judge her by her looks. In this fearless talk, she takes a wry look at the industry that had her looking highly seductive at barely 16-years-old. (Filmed at TEDxMidAtlantic.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/1YU7V0TGcm4/CameronRussell_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/1ba3bd800cbe51ac330462531885224ea07fae36_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Ellen Jorgensen: Biohacking -- you can do it, too]]></name>
+	<description><![CDATA[We have personal computing, why not personal biotech? That’s the question biologist Ellen Jorgensen and her colleagues asked themselves before opening Genspace, a nonprofit DIYbio lab in Brooklyn devoted to citizen science, where amateurs can go and tinker with biotechnology. Far from being a sinister Frankenstein's lab (as some imagined it), Genspace offers a long list of fun, creative and practical uses for DIYbio.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/ojYwYAKm9YQ/EllenJorgensen_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/ef0f90a8553e50076baf9213082481c51a8a90bb_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Angela Patton: A father-daughter dance ... in prison]]></name>
+	<description><![CDATA[At Camp Diva, Angela Patton works to help girls and fathers stay connected and in each others' lives. But what about girls whose fathers can't be there -- because they're in jail? Patton tells the story of a very special father-daughter dance. (Filmed at TEDxWomen)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/Q4xlWU-nOTU/AngelaPatton_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/607b6a77d182a5f75b6237d96fc4184fdf2721b8_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Andy Puddicombe: All it takes is 10 mindful minutes]]></name>
+	<description><![CDATA[When is the last time you did absolutely nothing for 10 whole minutes? Not texting, talking or even thinking? Mindfulness expert Andy Puddicombe describes the transformative power of doing just that: Refreshing your mind for 10 minutes a day, simply by being mindful and experiencing the present moment. (No need for incense or sitting in uncomfortable positions.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/Ut-NFDu1-g0/AndyPuddicombe_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/c719efe75a17d9b006e50065c8579e2535ddc190_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Boghuma Kabisen Titanji: Ethical riddles in HIV research]]></name>
+	<description><![CDATA[It’s an all too common story: after participating in an HIV clinical trial, a woman in sub-Saharan Africa is left without the resources to buy a bus ticket to her health clinic, let alone to afford life-saving antiretrovirals. Boghuma Kabisen Titanji asks an important question: how can researchers looking for a cure make sure they’re not taking advantage of those most affected by the pandemic? (Filmed at TEDxGoodenoughCollege.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/mDteWUH803Y/BoghumaKabisenTitanji_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/fa2b94c3f0dc485ddb07006aad34b0ad2d6ed6d4_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Jarrett J. Krosoczka: How a boy became an artist]]></name>
+	<description><![CDATA[When Jarrett J. Krosoczka was a kid, he didn’t play sports, but he loved art. He paints the funny and touching story of a little boy who pursued a simple passion: to draw and write stories. With the help of a supporting cast of family and teachers, our protagonist grew up to become the successful creator of beloved children’s book characters, and a vocal advocate for arts education. (Filmed at TEDxHampshireCollege.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/kPEfzvaaA28/JarrettJKrosoczka_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/d2c1c5b80819ff758e48c9bff5c6c962ea4e39d6_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Sue Austin: Deep sea diving … in a wheelchair]]></name>
+	<description><![CDATA[When Sue Austin got a power chair 16 years ago, she felt a tremendous sense of freedom -- yet others looked at her as though she had lost something. In her art, she aims to convey the spirit of wonder she feels wheeling through the world. Includes thrilling footage of an underwater wheelchair that lets her explore ocean beds, drifting through schools of fish, floating free in 360 degrees. (Filmed at TEDxWomen.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/h-7yk98H16w/SueAustin_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/feb0a963d77094cf3c68d800d59a44dad29db01c_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Jonathan Haidt: How common threats can make common (political) ground]]></name>
+	<description><![CDATA[If an asteroid were headed for Earth, we'd all band together and figure out how to stop it, just like in the movies, right? And yet, when faced with major, data-supported, end-of-the-world problems in real life, too often we retreat into partisan shouting and stalemate. Jonathan Haidt shows us a few of the very real asteroids headed our way -- some pet causes of the left wing, some of the right -- and suggests how both wings could work together productively to benefit humanity as a whole.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/ivsaTnr8mIg/JonathanHaidt_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/08eccdf1035b0338ee208ce18f0ba077f3c94a42_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Don Levy: A cinematic journey through visual effects]]></name>
+	<description><![CDATA[It's been 110 years since Georges Méliès sent a spaceship slamming into the eye of the man on the moon. So how far have visual effects come since then? Working closely with the Academy of Motion Picture Arts and Sciences, Don Levy takes us on a visual journey through special effects, from the fakery of early technology to the seamless marvels of modern filmmaking.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/1ZQ_3DzMx5Q/DonLevy_2012U.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/6f7e3185db54654068714580ecef09d704952bef_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Hadyn Parry: Re-engineering mosquitos to fight disease]]></name>
+	<description><![CDATA[In a single year, there are 200-300 million cases of malaria and 50-100 million cases of dengue fever worldwide. So: Why haven’t we found a way to effectively kill mosquitos yet? Hadyn Parry presents a fascinating solution: genetically engineering male mosquitos to make them sterile, and releasing the insects into the wild, to cut down on disease-carrying species.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/1by00ZFTIr0/HadynParry_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/e5a83197dda31e3be388cbaabb2add1d27ee24ad_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Karen Thompson Walker: What fear can teach us]]></name>
+	<description><![CDATA[Imagine you're a shipwrecked sailor adrift in the enormous Pacific. You can choose one of three directions and save yourself and your shipmates -- but each choice comes with a fearful consequence too. How do you choose? In telling the story of the whaleship Essex, novelist Karen Thompson Walker shows how fear propels imagination, as it forces us to imagine the possible futures and how to cope with them. ]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/Jp6C_-T2abA/KarenThompsonWalker_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/2136b667d317722918dab6cd4d81f828d6fd89ed_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Israel and Iran: A love story?]]></name>
+	<description><![CDATA[When war between Israel and Iran seemed imminent, Israeli graphic designer Ronny Edry shared a poster on Facebook of himself and his daughter with a bold message: "Iranians ... we [heart] you." Other Israelis quickly created their own posters with the same message -- and Iranians responded in kind. The simple act of communication inspired surprising Facebook communities like "Israel loves Iran," "Iran loves Israel" and even "Palestine loves Israel."]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/TGtwZ8zZshg/RonnyEdry_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/1cd8ab3b6e94be6d86ee94b2fa52c271abd140a9_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Adam Davidson: What we learned from teetering on the fiscal cliff]]></name>
+	<description><![CDATA[At the end of 2012, the US political system was headed for the "fiscal cliff" -- a budget impasse that could only be solved with bipartisan agreement. Adam Davidson, cohost of "Planet Money," shares surprising data on how bipartisan we truly are -- and hints at the disconnect between representatives and the people they represent.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/2xMsWxZl48s/AdamDavidson_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/b1dacb5808019af4af30411214a3ceb36d793a89_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Steven Addis: A father-daughter bond, one photo at a time]]></name>
+	<description><![CDATA[A long time ago in New York City, Steve Addis stood on a corner holding his 1-year-old daughter in his arms; his wife snapped a photo. The image has inspired an annual father-daughter ritual, where Addis and his daughter pose for the same picture, on the same corner, each year. Addis shares 15 treasured photographs from the series, and explores why this small, repeated ritual means so much.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/23rJ_0TrV6M/StevenAddis_2012.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/21f4d05961a6c8ee1c20015f41c2d828d5c09917_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Molly Crockett: Beware neuro-bunk]]></name>
+	<description><![CDATA[Brains are ubiquitous in modern marketing: Headlines proclaim cheese sandwiches help with decision-making, while a “neuro” drink claims to reduce stress. There’s just one problem, says neuroscientist Molly Crockett: The benefits of these "neuro-enhancements" are not proven scientifically. In this to-the-point talk, Crockett explains the limits of interpreting neuroscientific data, and why we should all be aware of them.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/BpgkiOSeRTw/MollyCrockett_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/bc8ee595feccded8db544b09f3d22ed9616d8780_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Robin Chase: Excuse me, may I rent your car?]]></name>
+	<description><![CDATA[A decade ago, Robin Chase founded Zipcar in the US, now the largest car-sharing company in the world. Now she's exploring the next level of car-sharing: Buzzcar, a French startup that lets people rent their own cars to others. The details are fascinating (how does insurance work, exactly?), and the larger vision (she calls it Peers, Inc.) points to a new definition of ownership and entrepreneurship.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/TOuJdCX0eH0/RobinChase_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/32bf0a8880fea886c23edd03ccfa5c5748bde4c5_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Ben Saunders: Why bother leaving the house?]]></name>
+	<description><![CDATA[Explorer Ben Saunders wants you to go outside! Not because it’s always pleasant and happy, but because that’s where the meat of life is, “the juice that we can suck out of our hours and days.” Saunders’ next outdoor excursion? To try to be the first in the world to walk from the coast of Antarctica to the South Pole and back again.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/Cv9rOT2c0B8/BenSaunders_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/d6523fdff934851fdba2cfb3c13202a2ba0b68f9_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Marcus Byrne: The dance of the dung beetle]]></name>
+	<description><![CDATA[A dung beetle has a brain the size of a grain of rice, and yet shows a tremendous amount of intelligence when it comes to rolling its food source -- animal excrement -- home. How? It all comes down to a dance. (Filmed at TEDxWitsUniversity.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/4uZLjdXIneE/MarcusByrne_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/ff1914f53b83583bf5f2155fb3f9eb95050c2769_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Maz Jobrani: A Saudi, an Indian and an Iranian walk into a Qatari bar …]]></name>
+	<description><![CDATA[Iranian-American comedian Maz Jobrani takes to the TEDxSummit stage in Doha, Qatar to take on serious issues in the Middle East -- like how many kisses to give when saying “Hi,” and what not to say on an American airplane.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/aDX7FNVvWsg/MazJobrani_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/9d813aa4d2c5b66fbaa48a04e02b01c0f9d11bf4_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Markham Nolan: How to separate fact and fiction online]]></name>
+	<description><![CDATA[By the end of this talk, there will be 864 more hours of video on YouTube and 2.5 million more photos on Facebook and Instagram. So how do we sort through the deluge? At the TEDSalon in London, Markham Nolan shares the investigative techniques he and his team use to verify information in real-time, to let you know if that Statue of Liberty image has been doctored or if that video leaked from Syria is legitimate.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/_ts_wZoAf1o/MarkhamNolan_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/c11cd7bef22fe47795e530dc871cea3a87221311_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Ellen 't Hoen: Pool medical patents, save lives]]></name>
+	<description><![CDATA[Patenting a new drug helps finance its immense cost to develop -- but that same patent can put advanced treatments out of reach for sick people in developing nations, at deadly cost. Ellen 't Hoen talks about an elegant, working solution to the problem: the Medicines Patent Pool. (Filmed at TEDxZurich.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/lDySZn3iGy0/EllenTHoen_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/9761e5a6ed80efbef75e238df5841b48a0975d33_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Lemon Andersen performs "Please don't take my Air Jordans"]]></name>
+	<description><![CDATA[Would you kill for a pair of Air Jordans? Lemon Andersen spins a tale of someone who did, reciting a poem by Reg E. Gaines. These verses taught Lemon that poetry could be about more than self-expression, and could sound like music when given rhythm and infused with the grit of the New York streets around him.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/iZco6Tfj5ds/LemonAndersen_2011Y.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/77f51be04c3531bb9b22eb93029eb01a3d991ff1_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Nina Tandon: Could tissue engineering mean personalized medicine?]]></name>
+	<description><![CDATA[Each of our bodies is utterly unique, which is a lovely thought until it comes to treating an illness -- when every body reacts differently, often unpredictably, to standard treatment. Tissue engineer Nina Tandon talks about a possible solution: Using pluripotent stem cells to make personalized models of organs on which to test new drugs and treatments, and storing them on computer chips. (Call it extremely personalized medicine.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/8AWe3nlwYG8/NinaTandon_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/353aebb8b0e78e9b6954b4032c6f8e6e5e95bdb6_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Jeff Smith: Lessons in business … from prison]]></name>
+	<description><![CDATA[Jeff Smith spent a year in prison. But what he discovered inside wasn’t what he expected -- he saw in his fellow inmates boundless ingenuity and business savvy. He asks: Why don't we tap this entrepreneurial potential to help ex-prisoners contribute to society once they're back outside? (From the TED Talent Search event TED@NewYork.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/IkYxwTrPiWw/JeffSmith_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/28d6fdbc71f8ab7559b394cb64fb380a90252a6c_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Ludwick Marishane: A bath without water]]></name>
+	<description><![CDATA[If you had to walk a mile for a jug of water every day, as millions of people do, it's unlikely you'd use that precious water to bathe. Young entrepreneur Ludwick Marishane tells the amazing, funny story of how he invented a cheap, clean and convenient solution: DryBath, the world’s first bath-substituting lotion.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/ZvngtQCPiu4/LudwickMarishane_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/b615911862a29f14db57c360f51dca58e2b7066c_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Bobby Ghosh: Why global jihad is losing]]></name>
+	<description><![CDATA[Throughout the history of Islam, says journalist Bobby Ghosh, there have been two sides to jihad: one, internal, a personal struggle to be better, the other external. A small minority (most recently Osama bin Laden) has appropriated the second, using it as an excuse for deadly global violence against "the West." Ghosh suggests that, now that bin Laden's worldwide organization has fragmented, it's time to reclaim the word. (Filmed at TEDxGeorgetown.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/odujDTCxBvw/BobbyGhosh_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/dbcd6dd2e6ca67e8e41acb1598dd4f76302a1fe4_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Paolo Cardini: Forget multitasking, try monotasking]]></name>
+	<description><![CDATA[People aren’t just cooking anymore -- they’re cooking, texting, talking on the phone, watching YouTube and uploading photos of the awesome meal they just made. Designer Paolo Cardini questions the efficiency of our multitasking world and makes the case for -- gasp -- "monotasking." His charming 3D-printed smartphone covers just might help.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/LhX4wlcfRNk/PaoloCardini_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/65f24e304cacea90ce4f5fd6e7baad2a57195e82_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Munir Virani: Why I love vultures]]></name>
+	<description><![CDATA[As natural garbage collectors, vultures are vital to our ecosystem -- so why all the bad press? Why are so many in danger of extinction? Raptor biologist Munir Virani says we need to pay more attention to these unique and misunderstood creatures, to change our perception and save the vultures.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/z3gm7zjOsZ0/MunirVirani_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/207c4aef9b0647b8146472283bb7b1c4c8bb0408_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Janine Shepherd: A broken body isn’t a broken person]]></name>
+	<description><![CDATA[Cross-country skier Janine Shepherd hoped for an Olympic medal -- until she was hit by a truck during a training bike ride. She shares a powerful story about the human potential for recovery. Her message: you are not your body, and giving up old dreams can allow new ones to soar.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/pNZjAJRTb-8/JanineShepherd_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/482ff9325f0dcaba965c110b4a637e8124bd849a_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Jonas Eliasson: How to solve traffic jams]]></name>
+	<description><![CDATA[It’s an unfortunate reality in nearly every major city—road congestion, especially during rush hours.  Jonas Eliasson reveals how subtly nudging just a small percentage of drivers to stay off major roads can make traffic jams a thing of the past. (Filmed at TEDxHelvetia.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/0vVquOg0ri4/JonasEliasson_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/72907e49ff8f3eac8f9532f52e6bb4d420b4347d_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Ernesto Sirolli: Want to help someone? Shut up and listen!]]></name>
+	<description><![CDATA[When most well-intentioned aid workers hear of a problem they think they can fix, they go to work. This, Ernesto Sirolli suggests, is naïve. In this funny and impassioned talk, he proposes that the first step is to listen to the people you're trying to help, and tap into their own entrepreneurial spirit. His advice on what works will help any entrepreneur.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/0-IZn8DEWhU/ErnestoSirolli_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/807cae8b77dc45876db09f711309d529dc250034_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Candy Chang: Before I die I want to...]]></name>
+	<description><![CDATA[In her New Orleans neighborhood, artist and TED Fellow Candy Chang turned an abandoned house into a giant chalkboard asking a fill-in-the-blank question: “Before I die I want to ___.” Her neighbors' answers -- surprising, poignant, funny -- became an unexpected mirror for the community. (What's your answer?)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/N-asSehqm_g/CandyChang_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/5159576b119c7f11a8b0f8501ce3b04a6e091c4f_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Louie Schwartzberg: Nature. Beauty. Gratitude.]]></name>
+	<description><![CDATA[Nature’s beauty can be easily missed -- but not through Louie Schwartzberg’s lens. His stunning time-lapse photography, accompanied by powerful words from Benedictine monk Brother David Steindl-Rast, serves as a meditation on being grateful for every day.
+(Filmed at TEDxSF.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/QyGNIlUHN-o/LouieSchwartzberg_2011X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/fef2e4d06e1b977f561c91b04668b16280292e6c_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Teenaged boy wonders play bluegrass]]></name>
+	<description><![CDATA[Brothers Jonny, Robbie and Tommy Mizzone are The Sleepy Man Banjo Boys, a trio of virtuoso bluegrass musicians who play with dazzling vivacity. Did we mention they're all under 16?]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/_rao5KxIjuI/SleepyManBanjoBoys_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/9b986fbfdce4b33d72e2bc1b3598264889f8cfcf_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Amos Winter: The cheap all-terrain wheelchair]]></name>
+	<description><![CDATA[How do you build a wheelchair ready to blaze through mud and sand, all for under $200? MIT engineer Amos Winter guides us through the mechanics of an all-terrain wheelchair that’s cheap and easy to build -- for true accessibility -- and gives us some lessons he learned along the road.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/nZFSVeBXt0o/AmosWinter_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/9319114f7e3443aa48b393d9a016422110811223_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Daphne Bavelier: Your brain on video games]]></name>
+	<description><![CDATA[How do fast-paced video games affect the brain? Step into the lab with cognitive researcher Daphne Bavelier to hear surprising news about how video games, even action-packed shooter games, can help us learn, focus and, fascinatingly, multitask. (Filmed at TEDxCHUV.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/xRUk66vHzzE/DaphneBavelier_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/57df5b112710750e171f9385ecef33c56cd75b3f_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[David Binder: The arts festival revolution]]></name>
+	<description><![CDATA[David Binder is a major Broadway producer, but last summer he found himself in a small Australian neighborhood, watching locals dance and perform on their lawns -- and loving it. He shows us the new face of arts festivals, which break the boundary between audience and performer and help cities express themselves.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/I9MIJeeHRaA/DavidBinder_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/3c87fcc96f236d805b48c0308db5f3e7f144545b_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Leah Buechley: How to “sketch” with electronics]]></name>
+	<description><![CDATA[Designing electronics is generally cumbersome and expensive -- or was, until Leah Buechley and her team at MIT developed tools to treat electronics just like paper and pen. In this talk from TEDYouth 2011, Buechley shows some of her charming designs, like a paper piano you can sketch and then play.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/Vc5AC3Ia7Fc/LeahBuechley_2011Y.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/f2405d628f6987da582a4c8d24c835183b358c02_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Hannah Brencher: Love letters to strangers]]></name>
+	<description><![CDATA[Hannah Brencher's mother always wrote her letters. So when she felt herself bottom into depression after college, she did what felt natural -- she wrote love letters and left them for strangers to find. The act has become a global initiative, The World Needs More Love Letters, which rushes handwritten letters to those in need of a boost.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/jq85xPeVSYw/HannahBrencher_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/61975945f445f27ab8d8f9da10f227dc0d36ce51_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Arunachalam Muruganantham: How I started a sanitary napkin revolution!]]></name>
+	<description><![CDATA[When he realized his wife had to choose between buying family meals and buying her monthly "supplies," Arunachalam Muruganantham vowed to help her solve the problem of the sanitary pad. His research got very very personal -- and led him to a powerful business model. (Filmed in Bangalore as part of the TED Global Talent Search.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/59G5VORN2qA/ArunachalamMuruganantham_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/b29a5d854be50d77f9b8d6bead44e4e0a0dcf849_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Julie Burstein: 4 lessons in creativity]]></name>
+	<description><![CDATA[Radio host Julie Burstein talks with creative people for a living -- and shares four lessons about how to create in the face of challenge, self-doubt and loss. Hear insights from filmmaker Mira Nair, writer Richard Ford, sculptor Richard Serra and photographer Joel Meyerowitz.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/kGdn2lNZsO0/JulieBurstein_2012.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/69cd5f00a8d2a64359a192fd8454d3d24cb28bc8_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Jeff Hancock: The future of lying]]></name>
+	<description><![CDATA[Who hasn’t sent a text message saying “I’m on my way” when it wasn’t true or fudged the truth a touch in their online dating profile? But Jeff Hancock doesn’t believe that the anonymity of the internet encourages dishonesty. In fact, he says the searchability and permanence of information online may even keep us honest.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/pfVs2FKRNUI/JeffHancock_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/c72763a9a047a5430d9c3c71211608b2ec5f7e18_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Georgette Mulheir: The tragedy of orphanages]]></name>
+	<description><![CDATA[Orphanages are costly and can cause irreparable damage both mentally and physically for its charges -- so why are they still so ubiquitous? Georgette Mulheir gravely describes the tragedy of orphanages and urges us to end our reliance on them, by finding alternate ways of supporting children in need.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/uwR4Lc-hNZU/GeorgetteMulheir_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/aea43471f1dea16b55f25195e628c7c666f0d3ec_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Gary Greenberg: The beautiful nano details of our world]]></name>
+	<description><![CDATA[When photographed under a 3D microscope, grains of sand appear like colorful pieces of candy and the stamens in a flower become like fantastical spires at an amusement park. Gary Greenberg reveals the thrilling details of the micro world. (Filmed at TEDxMaui.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/RrNwFSd6gSA/GaryGreenberg_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/c41e33e230ecc8ba49062c647071b39ee247fdf6_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Jake Wood: A new mission for veterans -- disaster relief]]></name>
+	<description><![CDATA[After months or years fighting overseas, 92 percent of American veterans say they want to continue their service; meanwhile, one after another, natural disasters continue to wreak havoc worldwide. What do these two challenges have in common? Team Rubicon co-founder Jake Wood gives a moving talk on how veterans can effectively contribute to disaster relief responses -- and in the process, regain purpose, community and self-worth.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/4u33wgF9N3c/JakeWood_2011X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/8521010362c541d1f8a06be8d7fefadf5d4ae13d_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Matt Killingsworth: Want to be happier? Stay in the moment]]></name>
+	<description><![CDATA[When are humans most happy? To gather data on this question, Matt Killingsworth built an app, Track Your Happiness, that let people report their feelings in real time. Among the surprising results: We're often happiest when we're lost in the moment. And the flip side: The more our mind wanders, the less happy we can be. (Filmed at TEDxCambridge.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/g4mG2H4LA94/MattKillingsworth_2011X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/2ff7ff0cde75d2a906557697701d2cf714763984_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Faith Jegede: What I’ve learned from my autistic brothers]]></name>
+	<description><![CDATA[Faith Jegede tells the moving and funny story of growing up with her two brothers, both autistic -- and both extraordinary. In this talk from the TED Talent Search, she reminds us to pursue a life beyond what is normal.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/mF4XsLgwJmo/FaithJegede_2012S.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/ffeef7d281aefac1ab3de5dd800d03992c2f25ad_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Adam Garone: Healthier men, one moustache at a time ]]></name>
+	<description><![CDATA[Adam Garone has an impressive moustache, and it's for a good cause. A co-founder of Movember, Garone's initiative to raise awareness for men's health -- by having men grow out their moustaches every November -- began as a dare in a bar in 2003. Now, it's a worldwide movement that raised $126 million for prostate cancer research last year. ]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/jMOJ9c9bWQ0/AdamGarone_2011X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/563e6be825223025c5fb9afeec4689bafb8e7f76_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Emma Teeling: The secret of the bat genome]]></name>
+	<description><![CDATA[In Western society, bats are often characterized as creepy, even evil. Zoologist Emma Teeling encourages us to rethink our attitude toward bats, whose unique and fascinating biology gives us insight into our own genetic makeup. (Filmed at TEDxDublin.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/6VUongOVys8/EmmaTeeling_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/c3359ca0645f8b7caf7b0c7a83b364ebdffd4c28_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Sanjay Pradhan: How open data is changing international aid]]></name>
+	<description><![CDATA[How do we make sure that development and aid money actually goes to the people who most need it? Sanjay Pradhan of the World Bank Institute lays out three guidelines to help relief efforts make the most impact -- while curbing corruption. One key: connecting the players who are working to change broken systems with the data they need.   ]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/7Ba5q0SKjUE/SanjayPradhan_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/a994993cb3b32f9c67b6578549015f392c163a7f_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Rory Stewart: Why democracy matters]]></name>
+	<description><![CDATA[The public is losing faith in democracy, says British MP Rory Stewart. Iraq and Afghanistan’s new democracies are deeply corrupt; meanwhile, 84 percent of people in Britain say politics is broken. In this important talk, Stewart sounds a call to action to rebuild democracy, starting with recognizing why democracy is important -- not as a tool, but as an ideal.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/jPAFyp5szj8/RoryStewart_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/580f2748be21c23e1beb86cbd25a3e5e6bfadebd_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Marco Tempest: A cyber-magic card trick like no other]]></name>
+	<description><![CDATA[The suits, numbers and colors in a deck of cards correspond to the seasons, moon cycles and calendar. Marco Tempest straps on augmented reality goggles and does a card trick like you’ve never seen before, weaving a lyrical tale as he deals. (This version fixes a glitch in the original performance, but is otherwise exactly as seen live by the TEDGlobal audience, including the dazzling augmented reality effects.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/WWafOteT9Gs/MarcoTempest_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/d8133164d6f953f536873a0fccb23413e4f90f2f_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Doris Kim Sung: Metal that breathes]]></name>
+	<description><![CDATA[Modern buildings with floor-to-ceiling windows give spectacular views, but they require a lot of energy to cool. Doris Kim Sung works with thermo-bimetals, smart materials that act more like human skin, dynamically and responsively, and can shade a room from sun and self-ventilate.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/11vMUwwVU5Y/DorisKimSung_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/be8bc8941155fcc0f96e25910d486ef6611e4a1c_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Lemn Sissay: A child of the state]]></name>
+	<description><![CDATA[Literature has long been fascinated with fostered, adopted and orphaned children, from Moses to Cinderella to Oliver Twist to Harry Potter. So why do many parentless children feel compelled to hide their pasts? Poet and playwright Lemn Sissay tells his own moving story. (Filmed at TEDxHousesofParliament.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/xb_BHS6ldzQ/LemnSissay_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/a1efde288361d19cbbcf61057f03f56baa6c2e3d_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[David Pizarro: The strange politics of disgust]]></name>
+	<description><![CDATA[What does a disgusting image have to do with how you vote? Equipped with surveys and experiments, psychologist David Pizarro demonstrates a correlation between sensitivity to disgusting cues -- a photo of feces, an unpleasant odor -- and moral and political conservatism. (Filmed at TEDxEast.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/nBS9UbUoHxo/DavidPizarro_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/da32cea2207c16f784e2745152717f46bafbb386_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Pankaj Ghemawat: Actually, the world isn't flat]]></name>
+	<description><![CDATA[It may seem that we're living in a borderless world where ideas, goods and people flow freely from nation to nation. We're not even close, says Pankaj Ghemawat. With great data (and an eye-opening survey), he argues that there's a delta between perception and reality in a world that's maybe not so hyperconnected after all.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/KPtiamOe0gY/PankajGhemawat_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/7faea0c3ae1fc45d95ec5cfbe0838e85e43fa1a2_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Ryan Merkley: Online video -- annotated, remixed and popped]]></name>
+	<description><![CDATA[Videos on the web should work like the web itself: Dynamic, full of links, maps and information that can be edited and updated live, says Mozilla Foundation COO Ryan Merkley. On the TED stage he demos Popcorn Maker, a new web-based tool for easy video remixing. (Watch a remixed TEDTalk using Popcorn Maker -- and remix it yourself.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/MWpcksUb660/RyanMerkley_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/436bcf78e4406a81d162e90015032c45330e9ef3_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Heather Brooke: My battle to expose government corruption]]></name>
+	<description><![CDATA[Our leaders need to be held accountable, says journalist Heather Brooke. And she should know: Brooke uncovered the British Parliamentary financial expenses that led to a major political scandal in 2009. She urges us to ask our leaders questions through platforms like Freedom of Information requests -- and to finally get some answers.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/MxJiUg1nD_Y/HeatherBrooke_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/a1dff6f8b58a59c8f721cb351b1e6c43f9d8db0f_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Beau Lotto + Amy O’Toole: Science is for everyone, kids included]]></name>
+	<description><![CDATA[What do science and play have in common? Neuroscientist Beau Lotto thinks all people (kids included) should participate in science and, through the process of discovery, change perceptions. He's seconded by 12-year-old Amy O'Toole, who, along with 25 of her classmates, published the first peer-reviewed article by schoolchildren, about the Blackawton bees project. It starts: "Once upon a time ... "]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/Obx1feTx-Uc/BeauLotto_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/a487529b3454cdad6b1132f2557b8a0560f9419a_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[John Wilbanks: Let’s pool our medical data]]></name>
+	<description><![CDATA[When you're getting medical treatment, or taking part in medical testing, privacy is important; strict laws limit what researchers can see and know about you. But what if your medical data could be used -- anonymously -- by anyone seeking to test a hypothesis? John Wilbanks wonders if the desire to protect our privacy is slowing research, and if opening up medical data could lead to a wave of health care innovation.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/2dN-ksWhYjg/JohnWilbanks_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/ee7314164d2ba80271cd05a8ab1f5deeb29c7f90_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Eddie Obeng: Smart failure for a fast-changing world]]></name>
+	<description><![CDATA[The world is changing much more rapidly than most people realize, says business educator Eddie Obeng -- and creative output cannot keep up. In this spirited talk, he highlights three important changes we should understand for better productivity, and calls for a stronger culture of “smart failure."]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/uM_2SWsMh-Q/EddieObeng_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/2bcbfb05e7b5dac371640712d301eeff5323eb69_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Maurizio Seracini: The secret lives of paintings]]></name>
+	<description><![CDATA[Art history is far from set in stone. Engineer Maurizio Seracini spent 30 years searching for Leonardo da Vinci’s lost fresco “The Battle of Anghiari,” and in the process discovered that many paintings have layers of history hidden underneath. Should they be part of the viewing experience too?]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/1CoF_ZjIGac/MaurizioSeracini_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/5be448556f172242dc2e0c04358bb0e7707b7e24_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Melissa Marshall: Talk nerdy to me]]></name>
+	<description><![CDATA[Melissa Marshall brings a message to all scientists (from non-scientists): We're fascinated by what you're doing. So tell us about it -- in a way we can understand. In just 4 minutes, she shares powerful tips on presenting complex scientific ideas to a general audience.
+]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/mrDcBd87ihg/MelissaMarshall_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/a8d46be076dd754d8c9b40fc4b8ab3bebbef56ef_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Ruby Wax: What's so funny about mental illness?]]></name>
+	<description><![CDATA[Diseases of the body garner sympathy, says comedian Ruby Wax -- except those of the brain. Why is that? With dazzling energy and humor, Wax, diagnosed a decade ago with clinical depression, urges us to put an end to the stigma of mental illness.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/oW69TKhfxgQ/RubyWax_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/ff7673513592401f0b71142bf8b4b3ba9c894d72_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[John Maeda: How art, technology and design inform creative leaders]]></name>
+	<description><![CDATA[John Maeda, President of the Rhode Island School of Design, delivers a funny and charming talk that spans a lifetime of work in art, design and technology, concluding with a picture of creative leadership in the future. Watch for demos of Maeda’s earliest work -- and even a computer made of people.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/j-gT58K3Ryg/JohnMaeda_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/d538403350630eeaf965325257caf869350a9832_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Tim Leberecht: 3 ways to (usefully) lose control of your brand]]></name>
+	<description><![CDATA[The days are past (if they ever existed) when a person, company or brand could tightly control their reputation -- online chatter and spin mean that if you're relevant, there's a constant, free-form conversation happening about you that you have no control over. Tim Leberecht offers three big ideas about accepting that loss of control, even designing for it -- and using it as an impetus to recommit to your values.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/-3Bm5enaGbk/TimLeberecht_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/5adb7a2f06238ea2a796c809dcbcf364410ee849_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Thomas P. Campbell: Weaving narratives in museum galleries]]></name>
+	<description><![CDATA[As the director of the Metropolitan Museum of Art in New York, Thomas P. Campbell thinks deeply about curating—not just selecting art objects, but placing them in a setting where the public can learn their stories. With glorious images, he shows how his curation philosophy works for displaying medieval tapestries—and for the over-the-top fashion/art of Alexander McQueen. (From The Design Studio session at TED2012, guest-curated by Chee Pearlman and David Rockwell.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/HKiVX3dBfy8/ThomasCampbell_2012.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/a6778cb3146456888d05410e7baefc487926414e_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Shimon Schocken: The self-organizing computer course]]></name>
+	<description><![CDATA[Shimon Schocken and Noam Nisan developed a curriculum for their students to build a computer, piece by piece. When they put the course online -- giving away the tools, simulators, chip specifications and other building blocks -- they were surprised that thousands jumped at the opportunity to learn, working independently as well as organizing their own classes in the first Massive Open Online Course (MOOC). A call to forget about grades and tap into the self-motivation to learn.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/P1hyI-c_D20/ShimonSchocken_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/b5a6709fd1913ee333964a645d9c8b271ed82da5_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Jason McCue: Terrorism is a failed brand]]></name>
+	<description><![CDATA[In this gripping talk, lawyer Jason McCue urges for a new way to attack terrorism, to weaken its credibility with those who are buying the product -- the recruits. He shares stories of real cases where he and other activists used this approach to engage and create change.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/AAHqXEtGnWs/JasonMcCue_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/c19e2e6d99c5085c8cc4742c56dbf66988f3b4bc_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Robert Gupta: Between music and medicine]]></name>
+	<description><![CDATA[When Robert Gupta was caught between a career as a doctor and as a violinist, he realized his place was in the middle, with a bow in his hand and a sense of social justice in his heart. He tells a moving story of society’s marginalized and the power of music therapy, which can succeed where conventional medicine fails.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/UVZzn8zgTX4/RobertGupta_2012P.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/1f82dd4305f7f4f0ef595d8ac201b367c490b6a5_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Amy Cuddy: Your body language shapes who you are]]></name>
+	<description><![CDATA[Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy shows how “power posing” -- standing in a posture of confidence, even when we don’t feel confident -- can affect testosterone and cortisol levels in the brain, and might even have an impact on our chances for success.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/NUvCuVEuW68/AmyCuddy_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/a50e3b4c7ba8e8476731498682c169ac07ccae5b_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Vicki Arroyo: Let's prepare for our new climate]]></name>
+	<description><![CDATA[As Vicki Arroyo says, it's time to prepare our homes and cities for our changing climate, with its increased risk of flooding, drought and uncertainty. She illustrates this inspiring talk with bold projects from cities all over the world -- local examples of thinking ahead. Read our Q&A with Vicki Arroyo.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/JM5367aAZuI/VickiArroyo_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/b7aaa095f1a7b707965e6928782494dc059374d0_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Aris Venetikidis: Making sense of maps]]></name>
+	<description><![CDATA[Map designer Aris Venetikidis is fascinated by the maps we draw in our minds as we move around a city -- less like street maps, more like schematics or wiring diagrams, abstract images of relationships between places. How can we learn from these mental maps to make better real ones? As a test case, he remakes the notorious Dublin bus map. (Filmed at TEDxDublin)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/JSd3_gunp2s/ArisVenetikidis_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/e9baebea40cbe9c1a26f6edd57f0833e4bb90aef_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Bahia Shehab: A thousand times no]]></name>
+	<description><![CDATA[Art historian Bahia Shehab has long been fascinated with the Arabic script for ‘no.’ When revolution swept through Egypt in 2011, she began spraying the image in the streets saying no to dictators, no to military rule and no to violence.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/EauqDXelnIY/BahiaShehab_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/2c45eceb645c6fae35e14e07a8c942176b4935e2_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Ben Goldacre: What doctors don't know about the drugs they prescribe]]></name>
+	<description><![CDATA[When a new drug gets tested, the results of the trials should be published for the rest of the medical world -- except much of the time, negative or inconclusive findings go unreported, leaving doctors and researchers in the dark. In this impassioned talk, Ben Goldacre explains why these unreported instances of negative data are especially misleading and dangerous.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/UA0d7S8_938/BenGoldacre_2012P.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/7e4610de8b325e3aa17345f70eeafda47fe86ccd_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Clay Shirky: How the Internet will (one day) transform government]]></name>
+	<description><![CDATA[The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/H6WRp8dH0ms/ClayShirky_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/39d58abd56cf9edd6936f4f42119a15e65692dc1_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Read Montague: What we're learning from 5,000 brains]]></name>
+	<description><![CDATA[Mice, bugs and hamsters are no longer the only way to study the brain. Functional MRI (fMRI) allows scientists to map brain activity in living, breathing, decision-making human beings. Read Montague gives an overview of how this technology is helping us understand the complicated ways in which we interact with each other.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/k65_LsNEZr0/ReadMontague_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/ebc788e8b0cb1fe1309ecf8d171270b4761da04e_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Andrew McAfee: Are droids taking our jobs?]]></name>
+	<description><![CDATA[Robots and algorithms are getting good at jobs like building cars, writing articles, translating -- jobs that once required a human. So what will we humans do for work? Andrew McAfee walks through recent labor data to say: We ain't seen nothing yet. But then he steps back to look at big history, and comes up with a surprising and even thrilling view of what comes next. (Filmed at TEDxBoston.)]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/4EiXMlq1mGI/AndrewMcAfee_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/a2f5350e007ffd71452aea058f9ae26fe59a6245_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Rachel Botsman: The currency of the new economy is trust]]></name>
+	<description><![CDATA[There's been an explosion of collaborative consumption -- web-powered sharing of cars, apartments, skills. Rachel Botsman explores the currency that makes systems like Airbnb and Taskrabbit work: trust, influence, and what she calls "reputation capital."]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/lWn0Vs1xH0Q/RachelBotsman_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/57dd4a180def67dc98275172cf5e83eabc061006_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Ed Gavagan: A story about knots and surgeons]]></name>
+	<description><![CDATA[One day, Ed Gavagan was sitting on the subway, watching two young med students practicing their knots. And a powerful memory washed over him -- of one shocking moment that changed his life forever. An unforgettable story of crime, skill and gratitude.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/W1aH3iad3Q0/EdGavagan_2012P.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/660a5714e73f0e3ffac3f823afb01432f001b18c_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Bandi Mbubi: Demand a fair trade cell phone]]></name>
+	<description><![CDATA[Your mobile phone, computer and game console have a bloody past — tied to tantalum mining, which funds the war in the Democratic Republic of the Congo. Drawing on his personal story, activist and refugee Bandi Mbubi gives a stirring call to action. (Filmed at TEDxExeter.)
+]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/9V_Hwer0HfA/BandiMbubi_2012X.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/43b9316c0da123fbf63650667e829632d7b7253c_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item><item>
+	<action>add</action>
+	<type>1</type>
+	<userId>zohar.babin@kaltura.com</userId>
+	<name><![CDATA[Andrew Blum: What is the Internet, really?]]></name>
+	<description><![CDATA[When a squirrel chewed through a cable and knocked him offline,  journalist Andrew Blum started wondering what the Internet was really made of. So he set out to go see it -- the underwater cables, secret switches and other physical bits that make up the net.]]></description>
+	<tags><tag>TED</tag><tag>TEDTalks</tag><tag>TED Talks</tag><tag>inspiration</tag><tag>creativity</tag><tag>tech demo</tag><tag>education</tag>	</tags>
+	<categories>
+		<category>Higher Education</category>
+	</categories>
+	<media>
+		<mediaType>1</mediaType> 
+	</media>
+	<contentAssets>
+		<content>
+			<urlContentResource url="http://feedproxy.google.com/~r/TEDTalks_video/~5/jKCPxeepO5A/AndrewBlum_2012G.mp4"></urlContentResource>
+		</content>
+	</contentAssets>
+	<thumbnails>
+		<thumbnail isDefault="true">
+			<urlContentResource url="http://images.ted.com/images/ted/105e586d1098f7421e9093446d04ea6f779302e4_615x461.jpg"></urlContentResource>
+		</thumbnail>
+	</thumbnails>
+</item></channel>
+</mrss>
