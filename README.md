@@ -1,4 +1,4 @@
-kaltura-bulk-upload-migration-samples
+Kaltura's Bulk Upload XML Content Migration Sample Scripts
 =====================================
 [![Video about Kaltura's Bulk Upload XML](http://cdn.kaltura.com/p/811441/thumbnail/entry_id/1_kxiv585x/width/200/height/100/type/1/quality/100 "Video about Kaltura's Bulk Upload XML")](http://videos.kaltura.com/media/1_kxiv585x)   
 Samples directory of scripts that migrate content from public content repositories to Kaltura using Kaltura's XML Bulk Upload Ingestion
@@ -23,12 +23,12 @@ Usage Guidelines
 ================
 To run the scripts, simply use a PHP CLI, and enter the following:
 
-###### ImportEntriesFromTedRSSFeed ######
+##### ImportEntriesFromTedRSSFeed #####
 * Edit KalturaAccountConfiguration.php and include your Kaltura credentials.
 * ````php ImportEntriesFromTedRSSFeed.php````
 * Visit your KMC account and check the Bulk Upload Log tab under the Content tab for import status.
 
-###### The other migration scripts ######
+##### The other migration scripts #####
 * ````php [migrationScript].php > outputBulkUpload.xml````
 * Upload the generated outputBulkUpload.xml file to your KMC using the Bulk Upload XML ingestion in the Upload menu.
 
