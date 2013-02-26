@@ -1,8 +1,8 @@
 kaltura-bulk-upload-migration-samples
 =====================================
+[![Video about Kaltura's Bulk Upload XML](http://cdn.kaltura.com/p/811441/thumbnail/entry_id/1_kxiv585x/width/200/height/100/type/1/quality/100 "Video about Kaltura's Bulk Upload XML")](http://videos.kaltura.com/media/1_kxiv585x)   
 Samples directory of scripts that migrate content from public content repositories to Kaltura using Kaltura's XML Bulk Upload Ingestion
-Learn more about Kaltura's Bulk Upload at: 
-* http://videos.kaltura.com/media/1_kxiv585x
+Learn more about Kaltura's Bulk Upload at:    
 * http://knowledge.kaltura.com/faq/what-xml-bulk-upload
 * The Bulk Upload XML Schema - http://www.kaltura.com/api_v3/xsdDoc/index.php?type=bulkUploadXml.bulkUploadXML
 
