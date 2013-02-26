@@ -38,8 +38,8 @@ To edit the number of pages to import from 5min's feed:
 * Edit 5minimport, set the $pagesToFetch to the number of pages (API results paging) you want to import from 5min.
 
 To edit the course to import from oyc.yale.edu:
-* Go to http://oyc.yale.edu/courses , select a course to import, go into the course page, click "VIEW CLASS SESSIONS �", go into the first lecture page.
-* Edit openyalecourseimport and paste the URL of the first lecture in the course you wish to import to the variable: "$firstCoursePage". Save.
+* Go to http://oyc.yale.edu/courses , select a course to import, go into the course page, click "VIEW CLASS SESSIONS", go into the first lecture page.
+* Edit openyalecourseimport and paste the URL of the first lecture in the course you wish to import to the variable: ````$firstCoursePage````. Save.
 
 importYaleForm (folder)
 =======================
