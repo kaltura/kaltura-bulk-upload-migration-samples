@@ -48,7 +48,13 @@ After placing in a web server, open the index.php file in a web browser, and the
 Hitting submit will download an XML file that can be submitted to Kaltura via the KMC.
 Live Sample at http://www.kaltura.org/demos/bulk-import-yale-opencourse/
 
-Notice
+License and Copyright Information
 ======
 This sample code is provided for demonstration purposes only. No action to promote scraping or copying of content is encouraged.
 Always ask for the content owner permission and retain proper attribution when using content from other sites.
+
+All code in this project is released under the [AGPLv3 license](http://www.gnu.org/licenses/agpl-3.0.html) unless a different license for a particular library is specified in the applicable library path. 
+
+Copyright © Kaltura Inc. All rights reserved.
+
+Authors [@zoharbabin](https://github.com/zoharbabin) and many others.
